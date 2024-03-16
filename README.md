@@ -1,4 +1,4 @@
 # spring-soap-client
 Spring boot SOAP Client
 
-Consuming SOAP Web Service  https://github.com/brymacha/spring-web-service
+Consuming SOAP Web Service  https://github.com/brightsonmacha/spring-web-service
